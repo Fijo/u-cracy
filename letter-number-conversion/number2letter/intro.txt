@@ -1,0 +1,5 @@
+So I came across this issue today.
+I wanted to create a group called J145916 in slack which I couldn't because apparently numbers are invalid characters in group names in slack, which I thought kinda sucks...
+
+Previously I've used numbers in names if a name I wanted to take was already take or sometimes just for lols or stuff like that.
+So I thought this time I'm gona have to come up with the reverse case - a number to letter conversion.
